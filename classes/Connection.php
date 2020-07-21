@@ -1,10 +1,10 @@
 <?php
 class Connection extends PDO
 {
-	protected $host = '51.81.1.156';
-	protected $user = 'innovowe_dd';
-	protected $pass = 'WH#8uvl7NfaL';
-	protected $base = 'innovowe_dartdigital';
+	protected $host = '127.0.0.1';
+	protected $user = 'root';
+	protected $pass = '';
+	protected $base = 'test';
 
 	public function __construct()
     {
