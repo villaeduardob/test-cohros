@@ -16,3 +16,10 @@ O cliente quer inserir uma agenda de contatos como a primeira funcionalidade de 
 
 ## Link para analisar o teste em produção:
 http://www.inovoweb.com.br/cohros/
+
+### Dados de acesso:
+E-mail: villa.eduardobarros@gmail.com
+
+Senha: 16991721731
+
+*Vocês podem utilizar os dados acima ou criar o seu próprio usuário clicando em "Cadastrar novo cliente" na tela de login...*
